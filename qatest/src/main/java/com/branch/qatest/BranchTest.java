@@ -95,7 +95,8 @@ public class BranchTest {
 		
 		else if(browserName.equalsIgnoreCase("Safari"))
 		{
-			driver = new SafariDriver();
+			 Logs.log("BROWSER : SAFARI");
+			 driver = new SafariDriver();
 		}
 		
 		
@@ -279,7 +280,7 @@ public class BranchTest {
 
 
 	//5. Verify that number of employees match between All tab and sum of other tabs.
-	@Test(dependsOnMethods={ "launchAndNavigate", "ReadAllTab", "readDepartmentTabs"})
+	@Test(dependsOnMethods={ "launchAndNavigate", "readAllTab", "readDepartmentTabs"})
 	public void checkForSumOfEmployeesAcrossTabs() throws FileNotFoundException
 	{
 
@@ -296,7 +297,7 @@ public class BranchTest {
 	}
 
 	//6. Verify that employee names match between All tab and other tabs.	
-	@Test(dependsOnMethods={ "launchAndNavigate", "ReadAllTab", "readDepartmentTabs"})
+	@Test(dependsOnMethods={ "launchAndNavigate", "readAllTab", "readDepartmentTabs"})
 	public void compareNames() throws FileNotFoundException
 	{
 
@@ -315,7 +316,7 @@ public class BranchTest {
 	}
 
 	//7. Verify that employee departments are listed correctly between All tab and Department tabs.
-	@Test(dependsOnMethods={ "launchAndNavigate", "ReadAllTab", "readDepartmentTabs"})
+	@Test(dependsOnMethods={ "launchAndNavigate", "readAllTab", "readDepartmentTabs"})
 	public void compareDepartments() throws FileNotFoundException
 	{
 		List<String> listKeySet = new ArrayList<String>(DeptEmpMap.keySet());
@@ -382,7 +383,7 @@ public class BranchTest {
 
 	//	8. Come up with 2 more valuable test cases.
 	//FIRST TESTCASE - In Every Department Tab atleast One Employee should be listed
-	@Test(dependsOnMethods={ "launchAndNavigate", "ReadAllTab", "readDepartmentTabs"})
+	@Test(dependsOnMethods={ "launchAndNavigate", "readAllTab", "readDepartmentTabs"})
 	public void checkForOneEmployeeInEveryDepartment() throws FileNotFoundException
 	{
 		
