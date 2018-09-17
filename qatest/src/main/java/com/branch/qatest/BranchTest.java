@@ -41,8 +41,8 @@ public class BranchTest {
 	//VARIABLE DECLARATION
 	private List<String> employeesName = new ArrayList<String>();
 	private Map<String, List<String>> DeptEmpMap = new LinkedHashMap<String, List<String>>();
-	private Set<String> dataList = new HashSet<String>(); //CHANGE LIST TO SET
-	private Set<String> engineeringList = new HashSet<String>(); //CHANGE LIST TO SET
+	private Set<String> dataList = new HashSet<String>(); 
+	private Set<String> engineeringList = new HashSet<String>(); 
 	private Set<String> marketingList = new HashSet<String>();
 	private Set<String> operationsList = new HashSet<String>();	
 	private Set<String> partnerGrowthList = new HashSet<String>();
@@ -160,7 +160,7 @@ public class BranchTest {
 
 	//Read Employee info from ALL tab and store in HashMap
 	@Test(priority = 1)
-	public  void ReadAllTab() throws IOException 
+	public  void readAllTab() throws IOException 
 	{
 		
 		ObjectMap  om = new ObjectMap(driver);
@@ -196,18 +196,18 @@ public class BranchTest {
 		ObjectMap  om = new ObjectMap(driver);
 		PageFactory.initElements(driver, om);
 		
-		dataList = PopulateDeptLists("Data", om.tabData);
-		engineeringList= PopulateDeptLists("Engineering", om.tabEngineering);
-		marketingList = PopulateDeptLists("Marketing", om.tabMarketing);
-		operationsList = PopulateDeptLists("Operations",om.tabOperations);
-		partnerGrowthList = PopulateDeptLists("Partner Growth",om.tabPartnerGrowth);
-		productList = PopulateDeptLists("Product",om.tabProduct);
-		recruitingList = PopulateDeptLists("Recruiting",om.tabRecruiting);
+		dataList = populateDeptLists("Data", om.tabData);
+		engineeringList= populateDeptLists("Engineering", om.tabEngineering);
+		marketingList = populateDeptLists("Marketing", om.tabMarketing);
+		operationsList = populateDeptLists("Operations",om.tabOperations);
+		partnerGrowthList = populateDeptLists("Partner Growth",om.tabPartnerGrowth);
+		productList = populateDeptLists("Product",om.tabProduct);
+		recruitingList = populateDeptLists("Recruiting",om.tabRecruiting);
 	}
 
 
 	//Method to Populate Department Lists
-	private Set<String> PopulateDeptLists(String deptName, WebElement deptTab) throws IOException, InterruptedException 
+	private Set<String> populateDeptLists(String deptName, WebElement deptTab) throws IOException, InterruptedException 
 	{
 		Set<String> empSet = new HashSet<String>(); 
 		ObjectMap  om = new ObjectMap(driver);
