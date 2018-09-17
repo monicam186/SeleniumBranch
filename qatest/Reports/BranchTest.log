@@ -1,0 +1,450 @@
+
+2018-09-17 04-55-40::com.branch.qatest.BranchTest.launchAndNavigate
+ENVIRONMENT : WINDOWS
+BROWSER : CHROME
+Element Google Search Box Is Displayed
+SCREENSHOT of Diplay of Google Search BoxCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Google Search Box.png
+SCREENSHOT of Enter Search Keyword as branchCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Enter Search Keyword as branch.png
+Element Branch.IO Is Displayed
+SCREENSHOT of Diplay of Branch.IOCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Branch.IO.png
+SCREENSHOT of Button AcceptCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Button Accept.png
+Element Team Footer link Is Displayed
+SCREENSHOT of Diplay of Team Footer linkCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Team Footer link.png
+SCREENSHOT of Team linkCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Team link.png
+SCREENSHOT of All TabCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\All Tab.png
+DEPT EMP MAP :::: {CO-FOUNDER / CEO=[ALEX AUSTIN], CO-FOUNDER / MARKETING=[MADA SEGHETE], CO-FOUNDER / COO=[MIKE MOLINET], CO-FOUNDER / ENGINEERING=[DMITRI GASKIN], ENGINEERING=[AARON LOPEZ, AGRIM NIGAM, AHMED NAWAR, AMARJIT SINGH, AMIT TYAGI, AMRUTA DESHMUKH, ANKIT SAXENA, BRIAN CHANG, BRIAN SPRINGER, DAVID WESTGATE, DERRICK STATEN, EDWARD SMITH, EVGENIY (GENE) HAYDAMAKHA, FELIX VIALVA, GERRIT YNTEMA, HEMANTH SRIDHARA ASHALATHA, HUBERT CHEN, IAN CHAN, JACKIE CHOI, JAKE ADAMS, JAVERIA KHAN, JONAS BAUER, JUD DAGNALL, JUAN ANDRADE, MARK WEILER, MICHAEL NORDBERG, MINESH KHER, NIDHI MIGLANI, NEIL MA, PRASANNA RAMANUJAM, RUBIN SINGH, RUI CHEN, RUTH M. PARDEE, RYAN CHURAMAN, SAHIL VERMA, SAMIT SAWANT, SCOTT DINN, VATSAL BAJPAI, YEN HOANG, YURY USTSINCHYK, ZEESHA CURRIMBHOY], PARTNER GROWTH=[ADAM MICHALSKI, AMANDA GRADY, AMANDA VANDIVER, ANN MASSOUD, ANUP OSTWAL, BARRY KEANE, BRIAN LAW, BURHAN HAILE, CAT PEREZ, CHRISTOF JARITZ, CHRISTOPHER CARVALHO, COREY FRICKEL, DANNY GAMBOA, EMRE AKSOY, ERIC STEIN, EVAN KAPLAN, FELIPE NOGUEROL, GABRIELLE SALGADO, GARY MACDONOUGH, GAUTIER DESSE, IGOR GONEBNYY, JARED BEN-JAMIN, JIM TOMCZYK, JOHN GILHULY, JON NESETH, JOSEPH GERAGHTY, KELSEY POLEYEFF, MADELINE BRONSTEIN, MARC RITTER, MARSHALL CLARK, MATEJ HORAVA, MAURO SINCHE, MEGAN BEATY, MICHAEL KWON, MICHELLE LERNER, NAVID ZOLFGHARI, PATRICK VAN DER STEEN, RAMSEY PRYOR, RAHUL SWAMY, SHELBY SIMS, SHUBHAM MISHRA, STACY OSORIO, STAS ZHUKOVSKIY, STEPHEN DANIELS, TAE KIM, TAREK TANTAWY, THIBAUT SOUYRIS, THOMAS QUINLAN, TIM CHINGOS, TRACY TRUONG, VIKRAM PRAKASH, WILL BOOZ], DATA=[ADITI VERMA, BRIAN KRING, ERIC GLOVER, HARISH CHOUDHARY, JYOTSNA JAYARAMAN, KAN YU, RICARDO ARAVENA], MARKETING=[ALEX BAUER, AMANDA MASSEY, ANJALI KUMAR, CLAY JONES, CYNTHIA CHIANG, DEVASMITHA REDDY, GOVIND KAVATURI, MICHAEL HINDMAN, PETER LABERGE, XIAN CHEN], OPERATIONS=[CATHLEEN HARTGE, HERMAN NG, KRISTY WENTZEL, SARAH JIMENEZ], RECRUITING=[DANIA REED, MONICA CUYONG], PRODUCT=[LILA STROMINGER, NATALI RODRIGUEZ, NICOLAS BONNET, WILL LINDEMANN]}
+
+2018-09-17 04-58-30::com.branch.qatest.BranchTest.launchAndNavigate
+ENVIRONMENT : WINDOWS
+BROWSER : CHROME
+Element Google Search Box Is Displayed
+SCREENSHOT of Diplay of Google Search BoxCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Google Search Box.png
+SCREENSHOT of Enter Search Keyword as branchCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Enter Search Keyword as branch.png
+Element Branch.IO Is Displayed
+SCREENSHOT of Diplay of Branch.IOCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Branch.IO.png
+SCREENSHOT of Button AcceptCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Button Accept.png
+Element Team Footer link Is Displayed
+SCREENSHOT of Diplay of Team Footer linkCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Team Footer link.png
+SCREENSHOT of Team linkCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Team link.png
+SCREENSHOT of All TabCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\All Tab.png
+DEPT EMP MAP :::: {CO-FOUNDER / CEO=[ALEX AUSTIN], CO-FOUNDER / MARKETING=[MADA SEGHETE], CO-FOUNDER / COO=[MIKE MOLINET], CO-FOUNDER / ENGINEERING=[DMITRI GASKIN], ENGINEERING=[AARON LOPEZ, AGRIM NIGAM, AHMED NAWAR, AMARJIT SINGH, AMIT TYAGI, AMRUTA DESHMUKH, ANKIT SAXENA, BRIAN CHANG, BRIAN SPRINGER, DAVID WESTGATE, DERRICK STATEN, EDWARD SMITH, EVGENIY (GENE) HAYDAMAKHA, FELIX VIALVA, GERRIT YNTEMA, HEMANTH SRIDHARA ASHALATHA, HUBERT CHEN, IAN CHAN, JACKIE CHOI, JAKE ADAMS, JAVERIA KHAN, JONAS BAUER, JUD DAGNALL, JUAN ANDRADE, MARK WEILER, MICHAEL NORDBERG, MINESH KHER, NIDHI MIGLANI, NEIL MA, PRASANNA RAMANUJAM, RUBIN SINGH, RUI CHEN, RUTH M. PARDEE, RYAN CHURAMAN, SAHIL VERMA, SAMIT SAWANT, SCOTT DINN, VATSAL BAJPAI, YEN HOANG, YURY USTSINCHYK, ZEESHA CURRIMBHOY], PARTNER GROWTH=[ADAM MICHALSKI, AMANDA GRADY, AMANDA VANDIVER, ANN MASSOUD, ANUP OSTWAL, BARRY KEANE, BRIAN LAW, BURHAN HAILE, CAT PEREZ, CHRISTOF JARITZ, CHRISTOPHER CARVALHO, COREY FRICKEL, DANNY GAMBOA, EMRE AKSOY, ERIC STEIN, EVAN KAPLAN, FELIPE NOGUEROL, GABRIELLE SALGADO, GARY MACDONOUGH, GAUTIER DESSE, IGOR GONEBNYY, JARED BEN-JAMIN, JIM TOMCZYK, JOHN GILHULY, JON NESETH, JOSEPH GERAGHTY, KELSEY POLEYEFF, MADELINE BRONSTEIN, MARC RITTER, MARSHALL CLARK, MATEJ HORAVA, MAURO SINCHE, MEGAN BEATY, MICHAEL KWON, MICHELLE LERNER, NAVID ZOLFGHARI, PATRICK VAN DER STEEN, RAMSEY PRYOR, RAHUL SWAMY, SHELBY SIMS, SHUBHAM MISHRA, STACY OSORIO, STAS ZHUKOVSKIY, STEPHEN DANIELS, TAE KIM, TAREK TANTAWY, THIBAUT SOUYRIS, THOMAS QUINLAN, TIM CHINGOS, TRACY TRUONG, VIKRAM PRAKASH, WILL BOOZ], DATA=[ADITI VERMA, BRIAN KRING, ERIC GLOVER, HARISH CHOUDHARY, JYOTSNA JAYARAMAN, KAN YU, RICARDO ARAVENA], MARKETING=[ALEX BAUER, AMANDA MASSEY, ANJALI KUMAR, CLAY JONES, CYNTHIA CHIANG, DEVASMITHA REDDY, GOVIND KAVATURI, MICHAEL HINDMAN, PETER LABERGE, XIAN CHEN], OPERATIONS=[CATHLEEN HARTGE, HERMAN NG, KRISTY WENTZEL, SARAH JIMENEZ], RECRUITING=[DANIA REED, MONICA CUYONG], PRODUCT=[LILA STROMINGER, NATALI RODRIGUEZ, NICOLAS BONNET, WILL LINDEMANN]}
+
+2018-09-17 05-01-14::com.branch.qatest.BranchTest.launchAndNavigate
+ENVIRONMENT : WINDOWS
+BROWSER : CHROME
+Element Google Search Box Is Displayed
+SCREENSHOT of Diplay of Google Search BoxCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Google Search Box.png
+SCREENSHOT of Enter Search Keyword as branchCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Enter Search Keyword as branch.png
+Element Branch.IO Is Displayed
+SCREENSHOT of Diplay of Branch.IOCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Branch.IO.png
+SCREENSHOT of Button AcceptCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Button Accept.png
+Element Team Footer link Is Displayed
+SCREENSHOT of Diplay of Team Footer linkCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Team Footer link.png
+SCREENSHOT of Team linkCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Team link.png
+SCREENSHOT of All TabCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\All Tab.png
+DEPT EMP MAP :::: {CO-FOUNDER / CEO=[ALEX AUSTIN], CO-FOUNDER / MARKETING=[MADA SEGHETE], CO-FOUNDER / COO=[MIKE MOLINET], CO-FOUNDER / ENGINEERING=[DMITRI GASKIN], ENGINEERING=[AARON LOPEZ, AGRIM NIGAM, AHMED NAWAR, AMARJIT SINGH, AMIT TYAGI, AMRUTA DESHMUKH, ANKIT SAXENA, BRIAN CHANG, BRIAN SPRINGER, DAVID WESTGATE, DERRICK STATEN, EDWARD SMITH, EVGENIY (GENE) HAYDAMAKHA, FELIX VIALVA, GERRIT YNTEMA, HEMANTH SRIDHARA ASHALATHA, HUBERT CHEN, IAN CHAN, JACKIE CHOI, JAKE ADAMS, JAVERIA KHAN, JONAS BAUER, JUD DAGNALL, JUAN ANDRADE, MARK WEILER, MICHAEL NORDBERG, MINESH KHER, NIDHI MIGLANI, NEIL MA, PRASANNA RAMANUJAM, RUBIN SINGH, RUI CHEN, RUTH M. PARDEE, RYAN CHURAMAN, SAHIL VERMA, SAMIT SAWANT, SCOTT DINN, VATSAL BAJPAI, YEN HOANG, YURY USTSINCHYK, ZEESHA CURRIMBHOY], PARTNER GROWTH=[ADAM MICHALSKI, AMANDA GRADY, AMANDA VANDIVER, ANN MASSOUD, ANUP OSTWAL, BARRY KEANE, BRIAN LAW, BURHAN HAILE, CAT PEREZ, CHRISTOF JARITZ, CHRISTOPHER CARVALHO, COREY FRICKEL, DANNY GAMBOA, EMRE AKSOY, ERIC STEIN, EVAN KAPLAN, FELIPE NOGUEROL, GABRIELLE SALGADO, GARY MACDONOUGH, GAUTIER DESSE, IGOR GONEBNYY, JARED BEN-JAMIN, JIM TOMCZYK, JOHN GILHULY, JON NESETH, JOSEPH GERAGHTY, KELSEY POLEYEFF, MADELINE BRONSTEIN, MARC RITTER, MARSHALL CLARK, MATEJ HORAVA, MAURO SINCHE, MEGAN BEATY, MICHAEL KWON, MICHELLE LERNER, NAVID ZOLFGHARI, PATRICK VAN DER STEEN, RAMSEY PRYOR, RAHUL SWAMY, SHELBY SIMS, SHUBHAM MISHRA, STACY OSORIO, STAS ZHUKOVSKIY, STEPHEN DANIELS, TAE KIM, TAREK TANTAWY, THIBAUT SOUYRIS, THOMAS QUINLAN, TIM CHINGOS, TRACY TRUONG, VIKRAM PRAKASH, WILL BOOZ], DATA=[ADITI VERMA, BRIAN KRING, ERIC GLOVER, HARISH CHOUDHARY, JYOTSNA JAYARAMAN, KAN YU, RICARDO ARAVENA], MARKETING=[ALEX BAUER, AMANDA MASSEY, ANJALI KUMAR, CLAY JONES, CYNTHIA CHIANG, DEVASMITHA REDDY, GOVIND KAVATURI, MICHAEL HINDMAN, PETER LABERGE, XIAN CHEN], OPERATIONS=[CATHLEEN HARTGE, HERMAN NG, KRISTY WENTZEL, SARAH JIMENEZ], RECRUITING=[DANIA REED, MONICA CUYONG], PRODUCT=[LILA STROMINGER, NATALI RODRIGUEZ, NICOLAS BONNET, WILL LINDEMANN]}
+
+2018-09-17 05-03-19::com.branch.qatest.BranchTest.launchAndNavigate
+ENVIRONMENT : WINDOWS
+BROWSER : FIREFOX
+Element Google Search Box Is Displayed
+SCREENSHOT of Diplay of Google Search BoxCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Google Search Box.png
+SCREENSHOT of Enter Search Keyword as branchCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Enter Search Keyword as branch.png
+Element Branch.IO Is Displayed
+SCREENSHOT of Diplay of Branch.IOCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Branch.IO.png
+SCREENSHOT of Button AcceptCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Button Accept.png
+Element Team Footer link Is Displayed
+SCREENSHOT of Diplay of Team Footer linkCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Diplay of Team Footer link.png
+SCREENSHOT of Team linkCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Team link.png
+SCREENSHOT of All TabCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\All Tab.png
+DEPT EMP MAP :::: {CO-FOUNDER / CEO=[ALEX AUSTIN], CO-FOUNDER / MARKETING=[MADA SEGHETE], CO-FOUNDER / COO=[MIKE MOLINET], CO-FOUNDER / ENGINEERING=[DMITRI GASKIN], ENGINEERING=[AARON LOPEZ, AGRIM NIGAM, AHMED NAWAR, AMARJIT SINGH, AMIT TYAGI, AMRUTA DESHMUKH, ANKIT SAXENA, BRIAN CHANG, BRIAN SPRINGER, DAVID WESTGATE, DERRICK STATEN, EDWARD SMITH, EVGENIY (GENE) HAYDAMAKHA, FELIX VIALVA, GERRIT YNTEMA, HEMANTH SRIDHARA ASHALATHA, HUBERT CHEN, IAN CHAN, JACKIE CHOI, JAKE ADAMS, JAVERIA KHAN, JONAS BAUER, JUD DAGNALL, JUAN ANDRADE, MARK WEILER, MICHAEL NORDBERG, MINESH KHER, NIDHI MIGLANI, NEIL MA, PRASANNA RAMANUJAM, RUBIN SINGH, RUI CHEN, RUTH M. PARDEE, RYAN CHURAMAN, SAHIL VERMA, SAMIT SAWANT, SCOTT DINN, VATSAL BAJPAI, YEN HOANG, YURY USTSINCHYK, ZEESHA CURRIMBHOY], PARTNER GROWTH=[ADAM MICHALSKI, AMANDA GRADY, AMANDA VANDIVER, ANN MASSOUD, ANUP OSTWAL, BARRY KEANE, BRIAN LAW, BURHAN HAILE, CAT PEREZ, CHRISTOF JARITZ, CHRISTOPHER CARVALHO, COREY FRICKEL, DANNY GAMBOA, EMRE AKSOY, ERIC STEIN, EVAN KAPLAN, FELIPE NOGUEROL, GABRIELLE SALGADO, GARY MACDONOUGH, GAUTIER DESSE, IGOR GONEBNYY, JARED BEN-JAMIN, JIM TOMCZYK, JOHN GILHULY, JON NESETH, JOSEPH GERAGHTY, KELSEY POLEYEFF, MADELINE BRONSTEIN, MARC RITTER, MARSHALL CLARK, MATEJ HORAVA, MAURO SINCHE, MEGAN BEATY, MICHAEL KWON, MICHELLE LERNER, NAVID ZOLFGHARI, PATRICK VAN DER STEEN, RAMSEY PRYOR, RAHUL SWAMY, SHELBY SIMS, SHUBHAM MISHRA, STACY OSORIO, STAS ZHUKOVSKIY, STEPHEN DANIELS, TAE KIM, TAREK TANTAWY, THIBAUT SOUYRIS, THOMAS QUINLAN, TIM CHINGOS, TRACY TRUONG, VIKRAM PRAKASH, WILL BOOZ], DATA=[ADITI VERMA, BRIAN KRING, ERIC GLOVER, HARISH CHOUDHARY, JYOTSNA JAYARAMAN, KAN YU, RICARDO ARAVENA], MARKETING=[ALEX BAUER, AMANDA MASSEY, ANJALI KUMAR, CLAY JONES, CYNTHIA CHIANG, DEVASMITHA REDDY, GOVIND KAVATURI, MICHAEL HINDMAN, PETER LABERGE, XIAN CHEN], OPERATIONS=[CATHLEEN HARTGE, HERMAN NG, KRISTY WENTZEL, SARAH JIMENEZ], RECRUITING=[DANIA REED, MONICA CUYONG], PRODUCT=[LILA STROMINGER, NATALI RODRIGUEZ, NICOLAS BONNET, WILL LINDEMANN]}
+SCREENSHOT of DataCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Data.png
+SCREENSHOT of DataADITI VERMACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\DataADITI VERMA.png
+SCREENSHOT of DataBRIAN KRINGCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\DataBRIAN KRING.png
+SCREENSHOT of DataERIC GLOVERCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\DataERIC GLOVER.png
+SCREENSHOT of DataHARISH CHOUDHARYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\DataHARISH CHOUDHARY.png
+SCREENSHOT of DataJYOTSNA JAYARAMANCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\DataJYOTSNA JAYARAMAN.png
+SCREENSHOT of DataKAN YUCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\DataKAN YU.png
+SCREENSHOT of DataRICARDO ARAVENACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\DataRICARDO ARAVENA.png
+Data Employess are : [ERIC GLOVER, BRIAN KRING, KAN YU, ADITI VERMA, RICARDO ARAVENA, HARISH CHOUDHARY, JYOTSNA JAYARAMAN]
+SCREENSHOT of EngineeringCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Engineering.png
+SCREENSHOT of EngineeringALEX AUSTINCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringALEX AUSTIN.png
+SCREENSHOT of EngineeringDMITRI GASKINCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringDMITRI GASKIN.png
+SCREENSHOT of EngineeringAARON LOPEZCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringAARON LOPEZ.png
+SCREENSHOT of EngineeringAGRIM NIGAMCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringAGRIM NIGAM.png
+SCREENSHOT of EngineeringAHMED NAWARCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringAHMED NAWAR.png
+SCREENSHOT of EngineeringAMARJIT SINGHCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringAMARJIT SINGH.png
+SCREENSHOT of EngineeringAMIT TYAGICAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringAMIT TYAGI.png
+SCREENSHOT of EngineeringAMRUTA DESHMUKHCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringAMRUTA DESHMUKH.png
+SCREENSHOT of EngineeringANKIT SAXENACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringANKIT SAXENA.png
+SCREENSHOT of EngineeringBRIAN CHANGCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringBRIAN CHANG.png
+SCREENSHOT of EngineeringBRIAN SPRINGERCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringBRIAN SPRINGER.png
+SCREENSHOT of EngineeringDAVID WESTGATECAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringDAVID WESTGATE.png
+SCREENSHOT of EngineeringDERRICK STATENCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringDERRICK STATEN.png
+SCREENSHOT of EngineeringEDWARD SMITHCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringEDWARD SMITH.png
+SCREENSHOT of EngineeringEVGENIY (GENE) HAYDAMAKHACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringEVGENIY (GENE) HAYDAMAKHA.png
+SCREENSHOT of EngineeringFELIX VIALVACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringFELIX VIALVA.png
+SCREENSHOT of EngineeringGERRIT YNTEMACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringGERRIT YNTEMA.png
+SCREENSHOT of EngineeringHEMANTH SRIDHARA ASHALATHACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringHEMANTH SRIDHARA ASHALATHA.png
+SCREENSHOT of EngineeringHUBERT CHENCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringHUBERT CHEN.png
+SCREENSHOT of EngineeringIAN CHANCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringIAN CHAN.png
+SCREENSHOT of EngineeringJACKIE CHOICAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringJACKIE CHOI.png
+SCREENSHOT of EngineeringJAKE ADAMSCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringJAKE ADAMS.png
+SCREENSHOT of EngineeringJAVERIA KHANCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringJAVERIA KHAN.png
+SCREENSHOT of EngineeringJONAS BAUERCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringJONAS BAUER.png
+SCREENSHOT of EngineeringJUD DAGNALLCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringJUD DAGNALL.png
+SCREENSHOT of EngineeringJUAN ANDRADECAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringJUAN ANDRADE.png
+SCREENSHOT of EngineeringMICHAEL NORDBERGCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringMICHAEL NORDBERG.png
+SCREENSHOT of EngineeringMINESH KHERCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringMINESH KHER.png
+SCREENSHOT of EngineeringNIDHI MIGLANICAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringNIDHI MIGLANI.png
+SCREENSHOT of EngineeringNEIL MACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringNEIL MA.png
+SCREENSHOT of EngineeringPRASANNA RAMANUJAMCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringPRASANNA RAMANUJAM.png
+SCREENSHOT of EngineeringRUBIN SINGHCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringRUBIN SINGH.png
+SCREENSHOT of EngineeringRUI CHENCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringRUI CHEN.png
+SCREENSHOT of EngineeringRUTH M. PARDEECAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringRUTH M. PARDEE.png
+SCREENSHOT of EngineeringRYAN CHURAMANCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringRYAN CHURAMAN.png
+SCREENSHOT of EngineeringSAHIL VERMACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringSAHIL VERMA.png
+SCREENSHOT of EngineeringSAMIT SAWANTCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringSAMIT SAWANT.png
+SCREENSHOT of EngineeringSCOTT DINNCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringSCOTT DINN.png
+SCREENSHOT of EngineeringYURY USTSINCHYKCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringYURY USTSINCHYK.png
+SCREENSHOT of EngineeringZEESHA CURRIMBHOYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\EngineeringZEESHA CURRIMBHOY.png
+Engineering Employess are : [ALEX AUSTIN, BRIAN CHANG, SAHIL VERMA, YURY USTSINCHYK, JAVERIA KHAN, MICHAEL NORDBERG, ZEESHA CURRIMBHOY, RUBIN SINGH, RUI CHEN, DERRICK STATEN, RYAN CHURAMAN, AGRIM NIGAM, EDWARD SMITH, AMARJIT SINGH, JONAS BAUER, AMIT TYAGI, AHMED NAWAR, FELIX VIALVA, NEIL MA, SAMIT SAWANT, IAN CHAN, DAVID WESTGATE, JUAN ANDRADE, PRASANNA RAMANUJAM, ANKIT SAXENA, HUBERT CHEN, AARON LOPEZ, AMRUTA DESHMUKH, JUD DAGNALL, NIDHI MIGLANI, BRIAN SPRINGER, MINESH KHER, GERRIT YNTEMA, HEMANTH SRIDHARA ASHALATHA, JACKIE CHOI, DMITRI GASKIN, EVGENIY (GENE) HAYDAMAKHA, JAKE ADAMS, SCOTT DINN, RUTH M. PARDEE]
+SCREENSHOT of MarketingCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Marketing.png
+SCREENSHOT of MarketingMADA SEGHETECAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\MarketingMADA SEGHETE.png
+SCREENSHOT of MarketingALEX BAUERCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\MarketingALEX BAUER.png
+SCREENSHOT of MarketingAMANDA MASSEYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\MarketingAMANDA MASSEY.png
+SCREENSHOT of MarketingANJALI KUMARCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\MarketingANJALI KUMAR.png
+SCREENSHOT of MarketingCLAY JONESCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\MarketingCLAY JONES.png
+SCREENSHOT of MarketingCYNTHIA CHIANGCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\MarketingCYNTHIA CHIANG.png
+SCREENSHOT of MarketingDEVASMITHA REDDYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\MarketingDEVASMITHA REDDY.png
+SCREENSHOT of MarketingGOVIND KAVATURICAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\MarketingGOVIND KAVATURI.png
+SCREENSHOT of MarketingMICHAEL HINDMANCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\MarketingMICHAEL HINDMAN.png
+SCREENSHOT of MarketingPETER LABERGECAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\MarketingPETER LABERGE.png
+SCREENSHOT of MarketingXIAN CHENCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\MarketingXIAN CHEN.png
+Marketing Employess are : [MADA SEGHETE, CYNTHIA CHIANG, AMANDA MASSEY, MICHAEL HINDMAN, PETER LABERGE, GOVIND KAVATURI, ALEX BAUER, DEVASMITHA REDDY, CLAY JONES, ANJALI KUMAR, XIAN CHEN]
+SCREENSHOT of OperationsCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Operations.png
+SCREENSHOT of OperationsCATHLEEN HARTGECAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\OperationsCATHLEEN HARTGE.png
+SCREENSHOT of OperationsHERMAN NGCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\OperationsHERMAN NG.png
+SCREENSHOT of OperationsKRISTY WENTZELCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\OperationsKRISTY WENTZEL.png
+SCREENSHOT of OperationsSARAH JIMENEZCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\OperationsSARAH JIMENEZ.png
+Operations Employess are : [HERMAN NG, SARAH JIMENEZ, CATHLEEN HARTGE, KRISTY WENTZEL]
+SCREENSHOT of Partner GrowthCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner Growth.png
+SCREENSHOT of Partner GrowthMIKE MOLINETCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthMIKE MOLINET.png
+SCREENSHOT of Partner GrowthADAM MICHALSKICAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthADAM MICHALSKI.png
+SCREENSHOT of Partner GrowthANN MASSOUDCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthANN MASSOUD.png
+SCREENSHOT of Partner GrowthANUP OSTWALCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthANUP OSTWAL.png
+SCREENSHOT of Partner GrowthBARRY KEANECAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthBARRY KEANE.png
+SCREENSHOT of Partner GrowthBRIAN LAWCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthBRIAN LAW.png
+SCREENSHOT of Partner GrowthBURHAN HAILECAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthBURHAN HAILE.png
+SCREENSHOT of Partner GrowthCAT PEREZCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthCAT PEREZ.png
+SCREENSHOT of Partner GrowthCHRISTOF JARITZCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthCHRISTOF JARITZ.png
+SCREENSHOT of Partner GrowthCHRISTOPHER CARVALHOCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthCHRISTOPHER CARVALHO.png
+SCREENSHOT of Partner GrowthCOREY FRICKELCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthCOREY FRICKEL.png
+SCREENSHOT of Partner GrowthDANNY GAMBOACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthDANNY GAMBOA.png
+SCREENSHOT of Partner GrowthEMRE AKSOYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthEMRE AKSOY.png
+SCREENSHOT of Partner GrowthERIC STEINCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthERIC STEIN.png
+SCREENSHOT of Partner GrowthEVAN KAPLANCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthEVAN KAPLAN.png
+SCREENSHOT of Partner GrowthFELIPE NOGUEROLCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthFELIPE NOGUEROL.png
+SCREENSHOT of Partner GrowthGABRIELLE SALGADOCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthGABRIELLE SALGADO.png
+SCREENSHOT of Partner GrowthGARY MACDONOUGHCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthGARY MACDONOUGH.png
+SCREENSHOT of Partner GrowthGAUTIER DESSECAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthGAUTIER DESSE.png
+SCREENSHOT of Partner GrowthIGOR GONEBNYYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthIGOR GONEBNYY.png
+SCREENSHOT of Partner GrowthJARED BEN-JAMINCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthJARED BEN-JAMIN.png
+SCREENSHOT of Partner GrowthJIM TOMCZYKCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthJIM TOMCZYK.png
+SCREENSHOT of Partner GrowthJOHN GILHULYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthJOHN GILHULY.png
+SCREENSHOT of Partner GrowthJON NESETHCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthJON NESETH.png
+SCREENSHOT of Partner GrowthJOSEPH GERAGHTYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthJOSEPH GERAGHTY.png
+SCREENSHOT of Partner GrowthKELSEY POLEYEFFCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthKELSEY POLEYEFF.png
+SCREENSHOT of Partner GrowthMADELINE BRONSTEINCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthMADELINE BRONSTEIN.png
+SCREENSHOT of Partner GrowthMARC RITTERCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthMARC RITTER.png
+SCREENSHOT of Partner GrowthMARSHALL CLARKCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthMARSHALL CLARK.png
+SCREENSHOT of Partner GrowthMATEJ HORAVACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthMATEJ HORAVA.png
+SCREENSHOT of Partner GrowthMAURO SINCHECAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthMAURO SINCHE.png
+SCREENSHOT of Partner GrowthMEGAN BEATYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthMEGAN BEATY.png
+SCREENSHOT of Partner GrowthMICHAEL KWONCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthMICHAEL KWON.png
+SCREENSHOT of Partner GrowthMICHELLE LERNERCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthMICHELLE LERNER.png
+SCREENSHOT of Partner GrowthNAVID ZOLFGHARICAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthNAVID ZOLFGHARI.png
+SCREENSHOT of Partner GrowthPATRICK VAN DER STEENCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthPATRICK VAN DER STEEN.png
+SCREENSHOT of Partner GrowthRAMSEY PRYORCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthRAMSEY PRYOR.png
+SCREENSHOT of Partner GrowthRAHUL SWAMYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthRAHUL SWAMY.png
+SCREENSHOT of Partner GrowthSHELBY SIMSCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthSHELBY SIMS.png
+SCREENSHOT of Partner GrowthSHUBHAM MISHRACAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthSHUBHAM MISHRA.png
+SCREENSHOT of Partner GrowthSTACY OSORIOCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthSTACY OSORIO.png
+SCREENSHOT of Partner GrowthSTAS ZHUKOVSKIYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthSTAS ZHUKOVSKIY.png
+SCREENSHOT of Partner GrowthSTEPHEN DANIELSCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthSTEPHEN DANIELS.png
+SCREENSHOT of Partner GrowthTAE KIMCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthTAE KIM.png
+SCREENSHOT of Partner GrowthTAREK TANTAWYCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthTAREK TANTAWY.png
+SCREENSHOT of Partner GrowthTHIBAUT SOUYRISCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthTHIBAUT SOUYRIS.png
+SCREENSHOT of Partner GrowthTHOMAS QUINLANCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthTHOMAS QUINLAN.png
+SCREENSHOT of Partner GrowthTIM CHINGOSCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthTIM CHINGOS.png
+SCREENSHOT of Partner GrowthTRACY TRUONGCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthTRACY TRUONG.png
+SCREENSHOT of Partner GrowthVIKRAM PRAKASHCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthVIKRAM PRAKASH.png
+SCREENSHOT of Partner GrowthWILL BOOZCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Partner GrowthWILL BOOZ.png
+Partner Growth Employess are : [IGOR GONEBNYY, JARED BEN-JAMIN, EVAN KAPLAN, COREY FRICKEL, TAREK TANTAWY, JON NESETH, ANN MASSOUD, CHRISTOF JARITZ, JOSEPH GERAGHTY, MICHAEL KWON, THIBAUT SOUYRIS, MARSHALL CLARK, PATRICK VAN DER STEEN, THOMAS QUINLAN, ANUP OSTWAL, VIKRAM PRAKASH, MADELINE BRONSTEIN, TRACY TRUONG, MARC RITTER, JIM TOMCZYK, KELSEY POLEYEFF, MAURO SINCHE, JOHN GILHULY, NAVID ZOLFGHARI, STEPHEN DANIELS, CHRISTOPHER CARVALHO, RAMSEY PRYOR, TIM CHINGOS, CAT PEREZ, FELIPE NOGUEROL, DANNY GAMBOA, STACY OSORIO, ERIC STEIN, SHELBY SIMS, TAE KIM, MICHELLE LERNER, MEGAN BEATY, SHUBHAM MISHRA, RAHUL SWAMY, WILL BOOZ, ADAM MICHALSKI, GAUTIER DESSE, GABRIELLE SALGADO, EMRE AKSOY, GARY MACDONOUGH, MIKE MOLINET, BARRY KEANE, STAS ZHUKOVSKIY, BRIAN LAW, MATEJ HORAVA, BURHAN HAILE]
+SCREENSHOT of ProductCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Product.png
+SCREENSHOT of ProductLILA STROMINGERCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\ProductLILA STROMINGER.png
+SCREENSHOT of ProductNATALI RODRIGUEZCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\ProductNATALI RODRIGUEZ.png
+SCREENSHOT of ProductNICOLAS BONNETCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\ProductNICOLAS BONNET.png
+SCREENSHOT of ProductWILL LINDEMANNCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\ProductWILL LINDEMANN.png
+Product Employess are : [NICOLAS BONNET, LILA STROMINGER, NATALI RODRIGUEZ, WILL LINDEMANN]
+SCREENSHOT of RecruitingCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\Recruiting.png
+SCREENSHOT of RecruitingDANIA REEDCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\RecruitingDANIA REED.png
+SCREENSHOT of RecruitingMONICA CUYONGCAPTURED AT : C:\Users\mm847h\Downloads\Branch\qatest\Reports\Screenshots\RecruitingMONICA CUYONG.png
+Recruiting Employess are : [DANIA REED, MONICA CUYONG]
+ALEX AUSTIN Works for Engineering Team
+MADA SEGHETE Works for Marketing Team
+MIKE MOLINET Works for Partner Growth Team
+DMITRI GASKIN Works for Engineering Team
+AARON LOPEZ Works for Engineering Team
+AGRIM NIGAM Works for Engineering Team
+AHMED NAWAR Works for Engineering Team
+AMARJIT SINGH Works for Engineering Team
+AMIT TYAGI Works for Engineering Team
+AMRUTA DESHMUKH Works for Engineering Team
+ANKIT SAXENA Works for Engineering Team
+BRIAN CHANG Works for Engineering Team
+BRIAN SPRINGER Works for Engineering Team
+DAVID WESTGATE Works for Engineering Team
+DERRICK STATEN Works for Engineering Team
+EDWARD SMITH Works for Engineering Team
+EVGENIY (GENE) HAYDAMAKHA Works for Engineering Team
+FELIX VIALVA Works for Engineering Team
+GERRIT YNTEMA Works for Engineering Team
+HEMANTH SRIDHARA ASHALATHA Works for Engineering Team
+HUBERT CHEN Works for Engineering Team
+IAN CHAN Works for Engineering Team
+JACKIE CHOI Works for Engineering Team
+JAKE ADAMS Works for Engineering Team
+JAVERIA KHAN Works for Engineering Team
+JONAS BAUER Works for Engineering Team
+JUD DAGNALL Works for Engineering Team
+JUAN ANDRADE Works for Engineering Team
+MARK WEILER DOES NOT work for ANY Team
+MICHAEL NORDBERG Works for Engineering Team
+MINESH KHER Works for Engineering Team
+NIDHI MIGLANI Works for Engineering Team
+NEIL MA Works for Engineering Team
+PRASANNA RAMANUJAM Works for Engineering Team
+RUBIN SINGH Works for Engineering Team
+RUI CHEN Works for Engineering Team
+RUTH M. PARDEE Works for Engineering Team
+RYAN CHURAMAN Works for Engineering Team
+SAHIL VERMA Works for Engineering Team
+SAMIT SAWANT Works for Engineering Team
+SCOTT DINN Works for Engineering Team
+VATSAL BAJPAI DOES NOT work for ANY Team
+YEN HOANG DOES NOT work for ANY Team
+YURY USTSINCHYK Works for Engineering Team
+ZEESHA CURRIMBHOY Works for Engineering Team
+ADAM MICHALSKI Works for Partner Growth Team
+AMANDA GRADY DOES NOT work for ANY Team
+AMANDA VANDIVER DOES NOT work for ANY Team
+ANN MASSOUD Works for Partner Growth Team
+ANUP OSTWAL Works for Partner Growth Team
+BARRY KEANE Works for Partner Growth Team
+BRIAN LAW Works for Partner Growth Team
+BURHAN HAILE Works for Partner Growth Team
+CAT PEREZ Works for Partner Growth Team
+CHRISTOF JARITZ Works for Partner Growth Team
+CHRISTOPHER CARVALHO Works for Partner Growth Team
+COREY FRICKEL Works for Partner Growth Team
+DANNY GAMBOA Works for Partner Growth Team
+EMRE AKSOY Works for Partner Growth Team
+ERIC STEIN Works for Partner Growth Team
+EVAN KAPLAN Works for Partner Growth Team
+FELIPE NOGUEROL Works for Partner Growth Team
+GABRIELLE SALGADO Works for Partner Growth Team
+GARY MACDONOUGH Works for Partner Growth Team
+GAUTIER DESSE Works for Partner Growth Team
+IGOR GONEBNYY Works for Partner Growth Team
+JARED BEN-JAMIN Works for Partner Growth Team
+JIM TOMCZYK Works for Partner Growth Team
+JOHN GILHULY Works for Partner Growth Team
+JON NESETH Works for Partner Growth Team
+JOSEPH GERAGHTY Works for Partner Growth Team
+KELSEY POLEYEFF Works for Partner Growth Team
+MADELINE BRONSTEIN Works for Partner Growth Team
+MARC RITTER Works for Partner Growth Team
+MARSHALL CLARK Works for Partner Growth Team
+MATEJ HORAVA Works for Partner Growth Team
+MAURO SINCHE Works for Partner Growth Team
+MEGAN BEATY Works for Partner Growth Team
+MICHAEL KWON Works for Partner Growth Team
+MICHELLE LERNER Works for Partner Growth Team
+NAVID ZOLFGHARI Works for Partner Growth Team
+PATRICK VAN DER STEEN Works for Partner Growth Team
+RAMSEY PRYOR Works for Partner Growth Team
+RAHUL SWAMY Works for Partner Growth Team
+SHELBY SIMS Works for Partner Growth Team
+SHUBHAM MISHRA Works for Partner Growth Team
+STACY OSORIO Works for Partner Growth Team
+STAS ZHUKOVSKIY Works for Partner Growth Team
+STEPHEN DANIELS Works for Partner Growth Team
+TAE KIM Works for Partner Growth Team
+TAREK TANTAWY Works for Partner Growth Team
+THIBAUT SOUYRIS Works for Partner Growth Team
+THOMAS QUINLAN Works for Partner Growth Team
+TIM CHINGOS Works for Partner Growth Team
+TRACY TRUONG Works for Partner Growth Team
+VIKRAM PRAKASH Works for Partner Growth Team
+WILL BOOZ Works for Partner Growth Team
+ADITI VERMA Works for Data Team
+BRIAN KRING Works for Data Team
+ERIC GLOVER Works for Data Team
+HARISH CHOUDHARY Works for Data Team
+JYOTSNA JAYARAMAN Works for Data Team
+KAN YU Works for Data Team
+RICARDO ARAVENA Works for Data Team
+ALEX BAUER Works for Marketing Team
+AMANDA MASSEY Works for Marketing Team
+ANJALI KUMAR Works for Marketing Team
+CLAY JONES Works for Marketing Team
+CYNTHIA CHIANG Works for Marketing Team
+DEVASMITHA REDDY Works for Marketing Team
+GOVIND KAVATURI Works for Marketing Team
+MICHAEL HINDMAN Works for Marketing Team
+PETER LABERGE Works for Marketing Team
+XIAN CHEN Works for Marketing Team
+CATHLEEN HARTGE Works for Operations Team
+HERMAN NG Works for Operations Team
+KRISTY WENTZEL Works for Operations Team
+SARAH JIMENEZ Works for Operations Team
+DANIA REED Works for Recruiting Team
+MONICA CUYONG Works for Recruiting Team
+LILA STROMINGER Works for Product Team
+NATALI RODRIGUEZ Works for Product Team
+NICOLAS BONNET Works for Product Team
+WILL LINDEMANN Works for Product Team
+The Number of Employees in All Tab is : 124  is NOT equal to sum of Employess in Department Tabs : 119
+There is atleast One Employee in Each team
+There are 7 Employees in Data team
+There are 40 Employees in Engineering team
+There are 4 Employees in Operations team
+There are 11 Employees in Marketing team
+There are 51 Employees in Partner Growth team
+There are 4 Employees in Product team
+There are 2 Employees in Recruiting team
+Department is listed for the employee ALEX AUSTIN
+Department is listed for the employee MADA SEGHETE
+Department is listed for the employee MIKE MOLINET
+Department is listed for the employee DMITRI GASKIN
+Department is listed for the employee AARON LOPEZ
+Department is listed for the employee ADAM MICHALSKI
+Department is listed for the employee ADITI VERMA
+Department is listed for the employee AGRIM NIGAM
+Department is listed for the employee AHMED NAWAR
+Department is listed for the employee ALEX BAUER
+Department is listed for the employee AMANDA GRADY
+Department is listed for the employee AMANDA MASSEY
+Department is listed for the employee AMANDA VANDIVER
+Department is listed for the employee AMARJIT SINGH
+Department is listed for the employee AMIT TYAGI
+Department is listed for the employee AMRUTA DESHMUKH
+Department is listed for the employee ANJALI KUMAR
+Department is listed for the employee ANKIT SAXENA
+Department is listed for the employee ANN MASSOUD
+Department is listed for the employee ANUP OSTWAL
+Department is listed for the employee BARRY KEANE
+Department is listed for the employee BRIAN CHANG
+Department is listed for the employee BRIAN KRING
+Department is listed for the employee BRIAN LAW
+Department is listed for the employee BRIAN SPRINGER
+Department is listed for the employee BURHAN HAILE
+Department is listed for the employee CAT PEREZ
+Department is listed for the employee CATHLEEN HARTGE
+Department is listed for the employee CHRISTOF JARITZ
+Department is listed for the employee CHRISTOPHER CARVALHO
+Department is listed for the employee CLAY JONES
+Department is listed for the employee COREY FRICKEL
+Department is listed for the employee CYNTHIA CHIANG
+Department is listed for the employee DANIA REED
+Department is listed for the employee DANNY GAMBOA
+Department is listed for the employee DAVID WESTGATE
+Department is listed for the employee DERRICK STATEN
+Department is listed for the employee DEVASMITHA REDDY
+Department is listed for the employee EDWARD SMITH
+Department is listed for the employee EMRE AKSOY
+Department is listed for the employee ERIC GLOVER
+Department is listed for the employee ERIC STEIN
+Department is listed for the employee EVAN KAPLAN
+Department is listed for the employee EVGENIY (GENE) HAYDAMAKHA
+Department is listed for the employee FELIPE NOGUEROL
+Department is listed for the employee FELIX VIALVA
+Department is listed for the employee GABRIELLE SALGADO
+Department is listed for the employee GARY MACDONOUGH
+Department is listed for the employee GAUTIER DESSE
+Department is listed for the employee GERRIT YNTEMA
+Department is listed for the employee GOVIND KAVATURI
+Department is listed for the employee HARISH CHOUDHARY
+Department is listed for the employee HEMANTH SRIDHARA ASHALATHA
+Department is listed for the employee HERMAN NG
+Department is listed for the employee HUBERT CHEN
+Department is listed for the employee IAN CHAN
+Department is listed for the employee IGOR GONEBNYY
+Department is listed for the employee JACKIE CHOI
+Department is listed for the employee JAKE ADAMS
+Department is listed for the employee JARED BEN-JAMIN
+Department is listed for the employee JAVERIA KHAN
+Department is listed for the employee JIM TOMCZYK
+Department is listed for the employee JOHN GILHULY
+Department is listed for the employee JON NESETH
+Department is listed for the employee JONAS BAUER
+Department is listed for the employee JOSEPH GERAGHTY
+Department is listed for the employee JUD DAGNALL
+Department is listed for the employee JUAN ANDRADE
+Department is listed for the employee JYOTSNA JAYARAMAN
+Department is listed for the employee KAN YU
+Department is listed for the employee KELSEY POLEYEFF
+Department is listed for the employee KRISTY WENTZEL
+Department is listed for the employee LILA STROMINGER
+Department is listed for the employee MADELINE BRONSTEIN
+Department is listed for the employee MARC RITTER
+Department is listed for the employee MARK WEILER
+Department is listed for the employee MARSHALL CLARK
+Department is listed for the employee MATEJ HORAVA
+Department is listed for the employee MAURO SINCHE
+Department is listed for the employee MEGAN BEATY
+Department is listed for the employee MICHAEL HINDMAN
+Department is listed for the employee MICHAEL KWON
+Department is listed for the employee MICHAEL NORDBERG
+Department is listed for the employee MICHELLE LERNER
+Department is listed for the employee MINESH KHER
+Department is listed for the employee MONICA CUYONG
+Department is listed for the employee NATALI RODRIGUEZ
+Department is listed for the employee NAVID ZOLFGHARI
+Department is listed for the employee NICOLAS BONNET
+Department is listed for the employee NIDHI MIGLANI
+Department is listed for the employee NEIL MA
+Department is listed for the employee PATRICK VAN DER STEEN
+Department is listed for the employee PETER LABERGE
+Department is listed for the employee PRASANNA RAMANUJAM
+Department is listed for the employee RAMSEY PRYOR
+Department is listed for the employee RAHUL SWAMY
+Department is listed for the employee RICARDO ARAVENA
+Department is listed for the employee RUBIN SINGH
+Department is listed for the employee RUI CHEN
+Department is listed for the employee RUTH M. PARDEE
+Department is listed for the employee RYAN CHURAMAN
+Department is listed for the employee SAHIL VERMA
+Department is listed for the employee SAMIT SAWANT
+Department is listed for the employee SARAH JIMENEZ
+Department is listed for the employee SCOTT DINN
+Department is listed for the employee SHELBY SIMS
+Department is listed for the employee SHUBHAM MISHRA
+Department is listed for the employee STACY OSORIO
+Department is listed for the employee STAS ZHUKOVSKIY
+Department is listed for the employee STEPHEN DANIELS
+Department is listed for the employee TAE KIM
+Department is listed for the employee TAREK TANTAWY
+Department is listed for the employee THIBAUT SOUYRIS
+Department is listed for the employee THOMAS QUINLAN
+Department is listed for the employee TIM CHINGOS
+Department is listed for the employee TRACY TRUONG
+Department is listed for the employee VATSAL BAJPAI
+Department is listed for the employee VIKRAM PRAKASH
+Department is listed for the employee WILL BOOZ
+Department is listed for the employee WILL LINDEMANN
+Department is listed for the employee XIAN CHEN
+Department is listed for the employee YEN HOANG
+Department is listed for the employee YURY USTSINCHYK
+Department is listed for the employee ZEESHA CURRIMBHOY

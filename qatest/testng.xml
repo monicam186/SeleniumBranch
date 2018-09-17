@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" verbose="1" name="Suite">
+	<test name="Test">
+		<parameter name="browser" value="Firefox"/>
+		<classes>
+			<class name="com.branch.qatest.BranchTest"/>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+

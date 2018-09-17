@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.branch.qatest.BranchTest">
+        <methods>
+          <include name="checkForOneEmployeeInEveryDepartment"/>
+          <include name="checkForSumOfEmployeesAcrossTabs"/>
+          <include name="test_employeeSocialAccount"/>
+          <include name="compareDepartments"/>
+          <include name="launchAndNavigate"/>
+          <include name="readDepartmentTabs"/>
+          <include name="ReadAllTab"/>
+          <include name="test_ValidDepartmentNames"/>
+          <include name="compareNames"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.branch.qatest.BranchTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="3" ignored="0" total="9" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="285897" started-at="2018-09-17T10:03:19Z" finished-at="2018-09-17T10:08:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="285897" started-at="2018-09-17T10:03:19Z" finished-at="2018-09-17T10:08:05Z">
+      <class name="com.branch.qatest.BranchTest">
+        <test-method status="PASS" signature="launchAndNavigate(java.lang.String)[pri:0, instance:com.branch.qatest.BranchTest@76508ed1]" name="launchAndNavigate" duration-ms="22047" started-at="2018-09-17T10:03:19Z" finished-at="2018-09-17T10:03:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAndNavigate -->
+        <test-method status="PASS" signature="ReadAllTab()[pri:1, instance:com.branch.qatest.BranchTest@76508ed1]" name="ReadAllTab" duration-ms="9092" started-at="2018-09-17T10:03:41Z" finished-at="2018-09-17T10:03:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadAllTab -->
+        <test-method status="PASS" signature="readDepartmentTabs()[pri:2, instance:com.branch.qatest.BranchTest@76508ed1]" name="readDepartmentTabs" duration-ms="241587" started-at="2018-09-17T10:03:50Z" finished-at="2018-09-17T10:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readDepartmentTabs -->
+        <test-method status="FAIL" signature="compareNames()[pri:0, instance:com.branch.qatest.BranchTest@76508ed1]" name="compareNames" duration-ms="20" started-at="2018-09-17T10:07:51Z" depends-on-methods="com.branch.qatest.BranchTest.launchAndNavigate, com.branch.qatest.BranchTest.readDepartmentTabs, com.branch.qatest.BranchTest.ReadAllTab" finished-at="2018-09-17T10:07:51Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertTrue(Assert.java:44)
+at org.testng.Assert.assertTrue(Assert.java:54)
+at com.branch.qatest.BranchTest.compareNames(BranchTest.java:305)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareNames -->
+        <test-method status="PASS" signature="compareDepartments()[pri:0, instance:com.branch.qatest.BranchTest@76508ed1]" name="compareDepartments" duration-ms="190" started-at="2018-09-17T10:07:51Z" depends-on-methods="com.branch.qatest.BranchTest.launchAndNavigate, com.branch.qatest.BranchTest.readDepartmentTabs, com.branch.qatest.BranchTest.ReadAllTab" finished-at="2018-09-17T10:07:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareDepartments -->
+        <test-method status="FAIL" signature="checkForSumOfEmployeesAcrossTabs()[pri:0, instance:com.branch.qatest.BranchTest@76508ed1]" name="checkForSumOfEmployeesAcrossTabs" duration-ms="10" started-at="2018-09-17T10:07:52Z" depends-on-methods="com.branch.qatest.BranchTest.launchAndNavigate, com.branch.qatest.BranchTest.readDepartmentTabs, com.branch.qatest.BranchTest.ReadAllTab" finished-at="2018-09-17T10:07:52Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [119] but found [124]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [119] but found [124]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:652)
+at org.testng.Assert.assertEquals(Assert.java:662)
+at com.branch.qatest.BranchTest.checkForSumOfEmployeesAcrossTabs(BranchTest.java:290)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkForSumOfEmployeesAcrossTabs -->
+        <test-method status="PASS" signature="checkForOneEmployeeInEveryDepartment()[pri:0, instance:com.branch.qatest.BranchTest@76508ed1]" name="checkForOneEmployeeInEveryDepartment" duration-ms="10" started-at="2018-09-17T10:07:52Z" depends-on-methods="com.branch.qatest.BranchTest.launchAndNavigate, com.branch.qatest.BranchTest.readDepartmentTabs, com.branch.qatest.BranchTest.ReadAllTab" finished-at="2018-09-17T10:07:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkForOneEmployeeInEveryDepartment -->
+        <test-method status="PASS" signature="test_ValidDepartmentNames()[pri:3, instance:com.branch.qatest.BranchTest@76508ed1]" name="test_ValidDepartmentNames" duration-ms="6928" started-at="2018-09-17T10:07:52Z" finished-at="2018-09-17T10:07:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ValidDepartmentNames -->
+        <test-method status="FAIL" signature="test_employeeSocialAccount()[pri:4, instance:com.branch.qatest.BranchTest@76508ed1]" name="test_employeeSocialAccount" duration-ms="5951" started-at="2018-09-17T10:07:59Z" finished-at="2018-09-17T10:08:05Z">
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index: 124, Size: 124]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index: 124, Size: 124
+at java.util.ArrayList.rangeCheck(Unknown Source)
+at java.util.ArrayList.get(Unknown Source)
+at com.branch.qatest.BranchTest.test_employeeSocialAccount(BranchTest.java:498)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_employeeSocialAccount -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.branch.qatest.BranchTest@76508ed1]" name="close" is-config="true" duration-ms="1995" started-at="2018-09-17T10:08:05Z" finished-at="2018-09-17T10:08:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.branch.qatest.BranchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
